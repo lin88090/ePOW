@@ -59,11 +59,11 @@ bitz collect --cores 2
 9.查詢挖了多少
 
 ```
-./bitz account
+bitz account
 ```
 
-9.將挖到的幣提取到錢包
+10.將挖到的幣提取到錢包
 
 ```
-./bitz claim
+bitz claim
 ```
