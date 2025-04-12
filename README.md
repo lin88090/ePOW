@@ -1,6 +1,6 @@
 # ePOW
 
-1.Install Rust
+1.Install Solana
 
 ```
 curl --proto '=https' --tlsv1.2 -sSfL https://solana-install.solana.workers.dev | bash
