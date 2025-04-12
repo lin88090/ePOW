@@ -22,6 +22,14 @@ export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
 solana-keygen new
 ```
 
+輸入指令找到私鑰路徑
+```
+solana config get
+```
+
+複製Keypair Path後面那段路徑，接著輸入cat(空格)剛剛複製的，會出現一段數字那是你的私鑰，連同括號複製下來導入錢包
+
+
 4.修改RPC
 
 ```
