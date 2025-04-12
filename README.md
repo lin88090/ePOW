@@ -48,10 +48,10 @@ screen -S eclipse
 chmod +x bitz
 ```
 
-7.運行挖礦
+7.運行挖礦(後面的8可以更改成你cpu的核心數，但要預留一點)
 
 ```
-./bitz collect --cores 8     你服务器多少核就填多少，当然别把cpu全跑满了不然卡
+./bitz collect --cores 8     
 ```
 
 8.查詢挖了多少
